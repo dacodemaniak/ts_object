@@ -1,0 +1,3 @@
+interface Greeting {
+    getGreeting(): string;
+}
